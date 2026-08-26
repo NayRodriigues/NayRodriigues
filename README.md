@@ -1,7 +1,7 @@
 # Olá, eu sou a Nayara!
 - 🎓 Estudante de Desenvolvimento de Sistemas e Inglês
 - 🐍 Aprendendo **Python** e desenvolvendo minha lógica de programação
-- 🌐 Desenvolvendo conhecimentos em **HTML e CSS**
+- 🌐 Desenvolvendo conhecimentos em **PYTHON, HTML e CSS**
 - 🚀 Meu objetivo profissional é atuar como **Desenvolvedora Front-End**
 - Contato: nayararodrigues.g@gmail.com
 
